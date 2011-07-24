@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Keyboards>
+	<!--
+	id := a UUID (you may want to generate this using our simple Java program at:  /trunk/project/dict_creation (uuidgen_Windows.bat or uuidgen_Linux)
+	nameResId := the resource Id which holds the name of the keyboard. See strings.xml.
+	layoutResId := the resource Id which holds the layout definition of this keyboard. The sample is an English QWERTY keyboard.
+	*landscapeResId := the resource Id which holds the layout definition of this keyboard in landscape orientation (optional).
+	*physicalKeyboardMappingResId := a physical keyboard translation definition (optional). The sample is a Russian layout.
+	*iconResId := an icon to show when switching to this layout (optional).
+	*defaultDictionaryLocale := a locate identifier for this keyboard. E.g., English will be en, Hebrew will be iw, etc.
+	description := some text you would like to add.
+	index := the sort index of this keyboard in the Settings page.
+	
+	* are optional.
+	 -->
+	<Keyboard 
+	id="92362342-1f4a-44e8-a141-a8ed0d48dc92" 
+	nameResId="@string/keyboard"
+	layoutResId="@xml/persian_qwerty"
+	landscapeResId="@xml/persian_qwerty"
+	physicalKeyboardMappingResId="@xml/ru_physical"
+	iconResId="@drawable/fa"
+	defaultDictionaryLocale="fa" 
+	description="Created by Pedram Hayati"
+	index="1"/>
+
+    <Keyboard 
+    id="e288adef-9518-41e3-b553-7f75766da62e" 
+    nameResId="@string/pinglish_keyboard"
+    layoutResId="@xml/persian_pinglish"
+    landscapeResId="@xml/persian_pinglish"
+    physicalKeyboardMappingResId="@xml/ru_physical"
+    iconResId="@drawable/fa"
+    defaultDictionaryLocale="pi" 
+    description="Pinglish (Finglish) Persian keyboard. Created by Pedram Hayati"
+    index="2"/>
+	<!-- you can add additional layouts. Just create additional Keyboard xml node. -->
+</Keyboards>
