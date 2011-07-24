@@ -1,6 +1,11 @@
-h1. Persian and Pinglish (Finglish) Android Keyboard for AnySoftKeyboard
+h1. Persian (Farsi) and Pinglish (Finglish) Android Keyboard for AnySoftKeyboard
 
-!http://i.imgur.com/rfdTI.png!    !http://i.imgur.com/VusLW.png!
+Persian (Farsi)
+!http://i.imgur.com/rfdTI.png!
+
+Pinglish (Finglish)
+!http://i.imgur.com/VusLW.png!
+
 This is an expansion layout pack (NOT STANDALONE APP) for AnySoftKeyboard (AnySoftKeyabord is an APP).
 
 Step1. Find AnySoftKeyboard in the Android Market and Install it.
