@@ -1,8 +1,10 @@
 #Persian and Pinglish keyboard for Android
-Persian (Farsi)
+Persian (Farsi)  
+
 ![](http://i.imgur.com/rfdTI.png)
 
-Pinglish (Finglish)
+Pinglish (Finglish)  
+
 ![](http://i.imgur.com/VusLW.png)
 
 This is an expansion layout pack for AnySoftKeyboard (AnySoftKeyabord is an APP).
