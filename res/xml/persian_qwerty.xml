@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <Keyboard xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ask="http://schemas.android.com/apk/res/com.anysoftkeyboard.languagepack.SSH"
     android:keyWidth="10%p"
     android:horizontalGap="0px"
     android:verticalGap="0px"
@@ -8,21 +9,21 @@
     >
     
     <Row android:keyWidth="10%p">
-        <Key android:codes="1590" android:keyLabel="&#1590;" android:keyEdgeFlags="left"/>
-        <Key android:codes="1589" android:keyLabel="&#1589;"/>
-        <Key android:codes="1602" android:keyLabel="&#1602;"/>
-        <Key android:codes="1601" android:keyLabel="&#1601;"/>
-        <Key android:codes="1594" android:keyLabel="&#1594;"/>
-        <Key android:codes="1593" android:keyLabel="&#1593;"/>
-        <Key android:codes="1607" android:keyLabel="&#1607;"/>
-        <Key android:codes="1582" android:keyLabel="&#1582;"/>
-        <Key android:codes="1581" android:keyLabel="&#1581;"/>
-        <Key android:codes="1580" android:keyLabel="&#1580;" android:keyEdgeFlags="right"/>
+        <Key android:codes="1590" android:keyLabel="&#1590;" android:popupCharacters="&#1776;" android:keyEdgeFlags="left"/>
+        <Key android:codes="1589" android:keyLabel="&#1589;" android:popupCharacters="&#1777;"/>
+        <Key android:codes="1602" android:keyLabel="&#1602;" android:popupCharacters="&#1778;"/>
+        <Key android:codes="1601" android:keyLabel="&#1601;" android:popupCharacters="&#1779;"/>
+        <Key android:codes="1594" android:keyLabel="&#1594;" android:popupCharacters="&#1780;"/>
+        <Key android:codes="1593" android:keyLabel="&#1593;" android:popupCharacters="&#1781;"/>
+        <Key android:codes="1607" android:keyLabel="&#1607;" android:popupCharacters="&#1782;"/>
+        <Key android:codes="1582" android:keyLabel="&#1582;" android:popupCharacters="&#1783;"/>
+        <Key android:codes="1581" android:keyLabel="&#1581;" android:popupCharacters="&#1784;"/>
+        <Key android:codes="1580" android:keyLabel="&#1580;" android:popupCharacters="&#1785;" android:keyEdgeFlags="right"/>
     </Row>
     
     <Row android:keyWidth="10%p">
         <Key android:codes="1588" android:keyLabel="&#1588;" android:keyEdgeFlags="left"/>
-        <Key android:codes="1587" android:keyLabel="&#1587;"/>
+        <Key android:codes="1587" android:keyLabel="&#1587;" android:popupCharacters="&#1642;"/>
         <Key android:codes="1610" android:keyLabel="&#1740;" android:popupCharacters="&#1574;&#1740;"/>
         <Key android:codes="1576" android:keyLabel="&#1576;"/>
         <Key android:codes="1604" android:keyLabel="&#1604;"/>

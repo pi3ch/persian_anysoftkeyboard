@@ -30,6 +30,5 @@ public final class R {
         public static final int persian_pinglish=0x7f030003;
         public static final int persian_qwerty=0x7f030004;
         public static final int pi=0x7f030005;
-        public static final int ru_physical=0x7f030006;
     }
 }
