@@ -19,4 +19,4 @@ This is an expansion layout pack for AnySoftKeyboard (AnySoftKeyabord is an APP)
 #Todo
 * Look for new android fonts to replace Arabic YE with Persian one
 * Add half-space (NIM-FASELEH)
-* Validate Persian numbers equivalent (4,5,6)
+* Validate Persian numbers equivalent (numbers 4,5,6)
