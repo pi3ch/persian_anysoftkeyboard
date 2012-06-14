@@ -1,7 +1,9 @@
 #Persian and Pinglish keyboard for Android
 
-![](http://i.imgur.com/rfdTI.png)
-
+![](http://i.imgur.com/rfdTI.png) 
+ 
+![](http://www.pedramhayati.com/images/persian_keyboard_android_number.png)
+  
 ![](http://i.imgur.com/VusLW.png)
 
 This is an expansion layout pack for AnySoftKeyboard (AnySoftKeyabord is an APP).
